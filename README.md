@@ -22,7 +22,7 @@ Sebutkan webserver yang digunakan pada ***"testing.mekanis.me"***!
 ### Jawaban Soal
 - Buka file ***soal_jarkom_modul1_no1-5,10*** di wireshark
 - Command filter yang digunakan adalah ***http.host == "testing.mekanis.me"***
-- Klik kanan di salah satu paket, klik follow, dan klik TCP Stream
+- Klik kanan di salah satu paket, klik ***follow***, dan klik ***TCP Stream***
 - Hasil terlihat pada bagian server, dab webserver yang digunakan adalah `Server: nginx/1.14.0 (Ubuntu)***`
 
 ### Dokumentasi Pengerjaan Soal
@@ -33,8 +33,15 @@ Sebutkan webserver yang digunakan pada ***"testing.mekanis.me"***!
 Simpan gambar ***"Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"***!
 
 ### Jawaban Soal
+- Buka file ***soal_jarkom_modul1_no1-5,10*** di wireshark
+- Klik menu ***File***, klik ***Export Objects***, dan klik ***HTTP***
+- Tuliskan `Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg` di kolom text filter
+- Simpan gambar di folder tertentu
 
 ### Dokumentasi Pengerjaan Soal
+![] ()
+![] ()
+![] ()
 
 ## Soal 3
 Cari username dan password ketika login di ***"ppid.dpr.go.id"***!
