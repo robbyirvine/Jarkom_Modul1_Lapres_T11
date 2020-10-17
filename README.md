@@ -123,34 +123,63 @@ clue: "25 50 44 46".
 Filter sehingga wireshark hanya mengambil paket yang ***mengandung port 21***!
 
 ### Jawaban Soal
+- Aktifkan ***FileZilla Server*** dan ***FileZilla Client***
+- Buka wireshark dan aktifkan capture filter ***port 21***
+- Buat user baru di FileZilla server
+- Hubungkan ***FileZilla Client*** dengan ***FileZilla Server***
+- Transfer file dari Client ke Server
+- Port 21 telah terdeteksi di display
 
 ### Dokumentasi Pengerjaan Soal
+
 
 ## Soal 12
 Filter sehingga wireshark hanya mengambil paket yang ***berasal dari port 80***!
 
 ### Jawaban Soal
+- Buka wireshark dan aktifkan capture filter ***src port 21***
+- Akses ***ajk.if.its.ac.id*** di browser
+- Paket yang difilter telah ditampilkan di display
 
 ### Dokumentasi Pengerjaan Soal
+![]()
+![]()
 
 ## Soal 13
 Filter sehingga wireshark hanya menampilkan paket yang ***menuju port 443***!
 
 ### Jawaban Soal
+- Buka wireshark dan aktifkan capture filter ***dst port 443***
+- Akses ***canva.com*** di browser
+- Paket yang difilter telah ditampilkan di display
 
 ### Dokumentasi Pengerjaan Soal
+![]()
+![]()
 
 ## Soal 14
 Filter sehingga wireshark hanya mengambil paket yang ***berasal dari ip kalian***!
+
 ### Jawaban Soal
+- Buka command prompt dan ketik ***ipconfig*** untuk mendapatkan IP Local
+- Buka wireshark dan aktifkan capture filter ***src (IP Local)***
+- Akses ***canva.com*** di browser
+- Paket yang difilter telah ditampilkan di display
 
 ### Dokumentasi Pengerjaan Soal
+![]()
+![]()
 
 ## Soal 15
 Filter sehingga wireshark hanya mengambil paket yang ***tujuannya ke monta.if.its.ac.id***!
 
 ### Jawaban Soal
+- Buka command prompt dan ketik ***ping*** + ***monta.if.its.ac.id***, didapatkan alamat IP dari website tersebut
+- Buka wireshark dan aktifkan capture filter ***dst 103.94.190.11 ***
+- Akses ***monta.if.its.ac.id*** di browser
+- Paket yang difilter telah ditampilkan di display
 
 ### Dokumentasi Pengerjaan Soal
-
+![] ()
+![] ()
 
