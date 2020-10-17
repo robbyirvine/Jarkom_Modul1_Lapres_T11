@@ -39,9 +39,9 @@ Simpan gambar ***"Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"***!
 - Simpan gambar di folder tertentu
 
 ### Dokumentasi Pengerjaan Soal
-![] ()
-![] ()
-![] ()
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/2a.jpeg)
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/2b.jpg)
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/2c.jpg)
 
 ## Soal 3
 Cari username dan password ketika login di ***"ppid.dpr.go.id"***!
@@ -53,7 +53,7 @@ Cari username dan password ketika login di ***"ppid.dpr.go.id"***!
 - Usernam dan Password sudah dimuat di halaman tersebut, yakni `Username = 10pemuda, Password = guncangdunia`
 
 ### Dokumentasi Pengerjaan Soal
-![] ()
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/3a.jpg)
 
 ## Soal 4
 Temukan paket dari web-web yang menggunakan ***basic authentication method***!
@@ -64,7 +64,7 @@ Temukan paket dari web-web yang menggunakan ***basic authentication method***!
 - Double klik pada salah satu paket, keterangan Authentication terletak di bagian ***Hypertext Transfer Protocol***
 
 ### Dokumentasi Pengerjaan Soal
-![] ()
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/4a.jpg)
 
 ## Soal 5
 Ikuti perintah di ****aku.pengen.pw!**** Username dan password bisa didapatkan dari file ***.pcapng***!
@@ -79,9 +79,9 @@ Ikuti perintah di ****aku.pengen.pw!**** Username dan password bisa didapatkan d
 - Jawab soal yang ada di halaman tersebut
 
 ### Dokumentasi Pengerjaan Soal
-![] ()
-![] ()
-![] ()
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/5a.jpg)
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/5b.jpg)
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/5c.jpg)
 
 ## Soal 6
 Seseorang menyimpan file zip melalui FTP dengan nama ****"Answer.zip"****. Simpan dan Buka file ***"Open This.pdf"*** di Answer.zip. Untuk mendapatkan password zipnya, temukan dalam file ***zipkey.txt*** (passwordnya adalah isi dari file txt tersebut).
@@ -142,8 +142,8 @@ Filter sehingga wireshark hanya mengambil paket yang ***berasal dari port 80***!
 - Paket yang difilter telah ditampilkan di display
 
 ### Dokumentasi Pengerjaan Soal
-![]()
-![]()
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/12a.jpg)
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/12b.jpg)
 
 ## Soal 13
 Filter sehingga wireshark hanya menampilkan paket yang ***menuju port 443***!
@@ -154,8 +154,8 @@ Filter sehingga wireshark hanya menampilkan paket yang ***menuju port 443***!
 - Paket yang difilter telah ditampilkan di display
 
 ### Dokumentasi Pengerjaan Soal
-![]()
-![]()
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/13a.jpg)
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/13b.jpg)
 
 ## Soal 14
 Filter sehingga wireshark hanya mengambil paket yang ***berasal dari ip kalian***!
@@ -167,8 +167,8 @@ Filter sehingga wireshark hanya mengambil paket yang ***berasal dari ip kalian**
 - Paket yang difilter telah ditampilkan di display
 
 ### Dokumentasi Pengerjaan Soal
-![]()
-![]()
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/14a.jpg)
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/14b.jpg)
 
 ## Soal 15
 Filter sehingga wireshark hanya mengambil paket yang ***tujuannya ke monta.if.its.ac.id***!
@@ -180,6 +180,6 @@ Filter sehingga wireshark hanya mengambil paket yang ***tujuannya ke monta.if.it
 - Paket yang difilter telah ditampilkan di display
 
 ### Dokumentasi Pengerjaan Soal
-![] ()
-![] ()
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/14b.jpg)
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/15b.jpg)
 
