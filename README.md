@@ -26,8 +26,8 @@ Sebutkan webserver yang digunakan pada ***"testing.mekanis.me"***!
 - Hasil terlihat pada bagian server, dab webserver yang digunakan adalah `Server: nginx/1.14.0 (Ubuntu)***`
 
 ### Dokumentasi Pengerjaan Soal
-![] ()
-![] ()
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/1a.jpeg)
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/1b.jpg)
 
 ## Soal 2
 Simpan gambar ***"Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"***!
