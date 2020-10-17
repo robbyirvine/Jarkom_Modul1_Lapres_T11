@@ -20,8 +20,14 @@ Terdapat tiga buah file ***.pcapng yang mendukung soal-soal display filter***, y
 Sebutkan webserver yang digunakan pada ***"testing.mekanis.me"***!
 
 ### Jawaban Soal
+- Buka file ***soal_jarkom_modul1_no1-5,10*** di wireshark
+- Command filter yang digunakan adalah ***http.host == "testing.mekanis.me"***
+- Klik kanan di salah satu paket, klik follow, dan klik TCP Stream
+- Hasil terlihat pada bagian server, dab webserver yang digunakan adalah `Server: nginx/1.14.0 (Ubuntu)***`
 
 ### Dokumentasi Pengerjaan Soal
+![] ()
+![] ()
 
 ## Soal 2
 Simpan gambar ***"Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"***!
