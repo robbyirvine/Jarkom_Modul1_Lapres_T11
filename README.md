@@ -1,5 +1,5 @@
 # Jarkom_Modul1_Praktikum_T11
-Repository Sebagai Laporan Resmi Soal Praktikum Modul 1 Praktikum Komunikasi Data dan Jaringan Komputer 2020\
+Repositori sebagai Laporan Resmi Soal Praktikum Modul 1 Praktikum Komunikasi Data dan Jaringan Komputer 2020\
 Disusun oleh :
 ```
 Kelompok    :   T11
