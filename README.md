@@ -47,22 +47,41 @@ Simpan gambar ***"Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"***!
 Cari username dan password ketika login di ***"ppid.dpr.go.id"***!
 
 ### Jawaban Soal
+- Buka file ***soal_jarkom_modul1_no1-5,10*** di wireshark
+- Command filter yang digunakan adalah ***http.request.method == POST***
+- Kemudian double klik pada salah satu paket, dan lihat di bagian ***HTML Form Url***
+- Usernam dan Password sudah dimuat di halaman tersebut, yakni `Username = 10pemuda, Password = guncangdunia`
 
 ### Dokumentasi Pengerjaan Soal
+![] ()
 
 ## Soal 4
 Temukan paket dari web-web yang menggunakan ***basic authentication method***!
 
 ### Jawaban Soal
+- Buka file ***soal_jarkom_modul1_no1-5,10*** di wireshark
+- Command filter yang digunakan adalah ***http.authbasic***
+- Double klik pada salah satu paket, keterangan Authentication terletak di bagian ***Hypertext Transfer Protocol***
 
 ### Dokumentasi Pengerjaan Soal
+![] ()
 
 ## Soal 5
 Ikuti perintah di ****aku.pengen.pw!**** Username dan password bisa didapatkan dari file ***.pcapng***!
 
 ### Jawaban Soal
+- Buka file ***soal_jarkom_modul1_no1-5,10*** di wireshark
+- Command filter yang digunakan adalah ***http.host == "aku.pengen.pw***
+- Double klik pada paket yang memiliki panjang ***574***
+- Lihat pada bagian ***Authentication dan Credentials***
+- Didapatkan username adalah `kakakgamtenk` dan password adalah `hartatahtabermuda`
+- Kemudian akses ***aku.pengen.pw*** di browser, lalu masukan username dan password
+- Jawab soal yang ada di halaman tersebut
 
 ### Dokumentasi Pengerjaan Soal
+![] ()
+![] ()
+![] ()
 
 ## Soal 6
 Seseorang menyimpan file zip melalui FTP dengan nama ****"Answer.zip"****. Simpan dan Buka file ***"Open This.pdf"*** di Answer.zip. Untuk mendapatkan password zipnya, temukan dalam file ***zipkey.txt*** (passwordnya adalah isi dari file txt tersebut).
