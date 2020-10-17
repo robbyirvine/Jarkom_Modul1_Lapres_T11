@@ -137,7 +137,7 @@ Filter sehingga wireshark hanya mengambil paket yang ***mengandung port 21***!
 Filter sehingga wireshark hanya mengambil paket yang ***berasal dari port 80***!
 
 ### Jawaban Soal
-- Buka wireshark dan aktifkan capture filter ***src port 21***
+- Buka wireshark dan aktifkan capture filter ***src port 80***
 - Akses ***ajk.if.its.ac.id*** di browser
 - Paket yang difilter telah ditampilkan di display
 
