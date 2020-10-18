@@ -23,7 +23,7 @@ Sebutkan webserver yang digunakan pada ***"testing.mekanis.me"***!
 - Buka file ***soal_jarkom_modul1_no1-5,10*** di wireshark
 - Command filter yang digunakan adalah ***http.host == "testing.mekanis.me"***
 - Klik kanan di salah satu paket, klik ***follow***, dan klik ***TCP Stream***
-- Hasil terlihat pada bagian server, dab webserver yang digunakan adalah `Server: nginx/1.14.0 (Ubuntu)***`
+- Hasil terlihat pada bagian server, dan webserver yang digunakan adalah `Server: nginx/1.14.0 (Ubuntu)`
 
 ### Dokumentasi Pengerjaan Soal
 ![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/1a.jpeg)
@@ -71,7 +71,7 @@ Ikuti perintah di ****aku.pengen.pw!**** Username dan password bisa didapatkan d
 
 ### Jawaban Soal
 - Buka file ***soal_jarkom_modul1_no1-5,10*** di wireshark
-- Command filter yang digunakan adalah ***http.host == "aku.pengen.pw***
+- Command filter yang digunakan adalah ***http.host == "aku.pengen.pw"***
 - Double klik pada paket yang memiliki panjang ***574***
 - Lihat pada bagian ***Authentication dan Credentials***
 - Didapatkan username adalah `kakakgamtenk` dan password adalah `hartatahtabermuda`
@@ -227,7 +227,7 @@ Filter sehingga wireshark hanya mengambil paket yang ***tujuannya ke monta.if.it
 
 ### Jawaban Soal
 - Buka command prompt dan ketik ***ping*** + ***monta.if.its.ac.id***, didapatkan alamat IP dari website tersebut
-- Buka wireshark dan aktifkan capture filter ***dst 103.94.190.11 ***
+- Buka wireshark dan aktifkan capture filter ***dst 103.94.190.11***
 - Akses ***monta.if.its.ac.id*** di browser
 - Paket yang difilter telah ditampilkan di display
 
