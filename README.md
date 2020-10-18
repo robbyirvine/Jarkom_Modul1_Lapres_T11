@@ -87,6 +87,19 @@ Ikuti perintah di ****aku.pengen.pw!**** Username dan password bisa didapatkan d
 Seseorang menyimpan file zip melalui FTP dengan nama ****"Answer.zip"****. Simpan dan Buka file ***"Open This.pdf"*** di Answer.zip. Untuk mendapatkan password zipnya, temukan dalam file ***zipkey.txt*** (passwordnya adalah isi dari file txt tersebut).
 
 ### Jawaban Soal
+- Buka file ***soal_jarkom_modul1_no6,7,9*** di wireshark
+- Command filter yang digunakan adalah ***ftp-data contains Answer.zip***
+- Klik kanan pada paket yang pertama didapatkan (Time Terkecil)
+- Klik ***Follow*** lalu klik ***TCP Stream***
+- Pada ***Stream*** di bagian kanan bawah, angka tersebut dikurangi ***1***
+- Pada ***Show and save data as***, diganti dengan ***RAW***
+- Save As sebagai ***Answer.zip***
+- Untuk mencari password file ***Answer.zip***, buka file ***soal_jarkom_modul1_no6,7,9***
+- Command filter yang digunakan adalah ***ftp-data contains zipkey.txt***
+- Klik kanan pada paket yang pertama didapatkan (Time Terkecil)
+- Klik ***Follow*** lalu klik ***TCP Stream***
+- Pada ***Stream*** di bagian kanan bawah, angka tersebut dikurangi ***1***
+- Passwordnya akan terlihat
 
 ### Dokumentasi Pengerjaan Soal
 
@@ -94,6 +107,14 @@ Seseorang menyimpan file zip melalui FTP dengan nama ****"Answer.zip"****. Simpa
 Ada 500 file zip yang disimpan ke FTP Server dengan nama ***1.zip, 2.zip, ..., 500.zip***. Salah satunya berisi pdf yang berisi puisi. ***Simpan* dan *Buka*** file pdf tersebut.
 
 ### Jawaban Soal
+- Buka file ***soal_jarkom_modul1_no6,7,9*** di wireshark
+- Command filter yang digunakan adalah ***ftp-data contains Yes.pdf***
+- Klik kanan pada paket yang pertama didapatkan (Time Terkecil)
+- Klik ***Follow*** lalu klik ***TCP Stream***
+- Pada ***Show and save data as***, diganti dengan ***RAW***
+- Save As sebagai ***Yes.zip***
+- Extract file ***Yes.zip***
+- file ***Yes.pdf*** akan terlihat
 
 ### Dokumentasi Pengerjaan Soal
 
@@ -101,6 +122,8 @@ Ada 500 file zip yang disimpan ke FTP Server dengan nama ***1.zip, 2.zip, ..., 5
 Cari objek apa saja yang ***didownload*** (RETR) dari koneksi FTP dengan ***Microsoft FTP Service***!
 
 ### Jawaban Soal
+- Buka file ***soal_jarkom_modul1_no8*** di wireshark
+- Command filter yang digunakan adalah ***ftp.request.command == RETR***
 
 ### Dokumentasi Pengerjaan Soal
 
@@ -108,6 +131,11 @@ Cari objek apa saja yang ***didownload*** (RETR) dari koneksi FTP dengan ***Micr
 Cari username dan password ketika ***login FTP*** pada localhost!
 
 ### Jawaban Soal
+- Buka file ***soal_jarkom_modul1_no6,7,9*** di wireshark
+- Untuk melihat username, command filter yang digunakan adalah ***ftp.request.command == "USER"***
+- Username akan terlihat yaitu ***dhana***
+- Untuk melihat password, command filter yang digunakan adalah ***ftp.request.command == "PASS"***
+- Password akan terlihat yaitu ***dhana123***
 
 ### Dokumentasi Pengerjaan Soal
 
@@ -116,6 +144,12 @@ Cari ***file .pdf*** di wireshark lalu download dan buka file tersebut!
 clue: "25 50 44 46".
 
 ### Jawaban Soal
+- Buka file ***soal_jarkom_modul1_no1-5,10*** di wireshark
+- Command filter yang digunakan adalah ***tcp contains 25:50:44:46***
+- Klik ***Follow*** pada paket tersebut, lalu klik ***TCP Stream***
+- Pada ***Show and save data as***, diganti dengan ***RAW***
+- Save As sebagai file ***.pdf***
+- Buka file ***.pdf*** tersebut
 
 ### Dokumentasi Pengerjaan Soal
 
