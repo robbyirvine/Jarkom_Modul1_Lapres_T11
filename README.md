@@ -131,9 +131,9 @@ Filter sehingga wireshark hanya mengambil paket yang ***mengandung port 21***!
 - Port 21 telah terdeteksi di display
 
 ### Dokumentasi Pengerjaan Soal
-![]()
-![]()
-![]()
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/11a.jpg)
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/11b.jpg)
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/11c.jpg)
 
 ## Soal 12
 Filter sehingga wireshark hanya mengambil paket yang ***berasal dari port 80***!
