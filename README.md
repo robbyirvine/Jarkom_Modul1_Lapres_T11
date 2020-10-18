@@ -131,8 +131,13 @@ Cari objek apa saja yang ***didownload*** (RETR) dari koneksi FTP dengan ***Micr
 ### Jawaban Soal
 - Buka file ***soal_jarkom_modul1_no8*** di wireshark
 - Command filter yang digunakan adalah ***ftp.request.command == RETR***
+- Klik kanan pada paket yang pertama didapatkan (Time Terkecil)
+- Klik ***Follow*** lalu klik ***TCP Stream***
+- Objek-objek tersebut akan terlihat 
 
 ### Dokumentasi Pengerjaan Soal
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/8a.png)
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/8b.png)
 
 ## Soal 9
 Cari username dan password ketika ***login FTP*** pada localhost!
