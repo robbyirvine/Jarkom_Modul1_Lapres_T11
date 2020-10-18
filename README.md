@@ -102,6 +102,11 @@ Seseorang menyimpan file zip melalui FTP dengan nama ****"Answer.zip"****. Simpa
 - Passwordnya akan terlihat
 
 ### Dokumentasi Pengerjaan Soal
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/6a.png)
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/6b.png)
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/6c.png)
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/6d.png)
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/6e.png)
 
 ## Soal 7
 Ada 500 file zip yang disimpan ke FTP Server dengan nama ***1.zip, 2.zip, ..., 500.zip***. Salah satunya berisi pdf yang berisi puisi. ***Simpan* dan *Buka*** file pdf tersebut.
@@ -117,6 +122,8 @@ Ada 500 file zip yang disimpan ke FTP Server dengan nama ***1.zip, 2.zip, ..., 5
 - file ***Yes.pdf*** akan terlihat
 
 ### Dokumentasi Pengerjaan Soal
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/7a.png)
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/7b.png)
 
 ## Soal 8
 Cari objek apa saja yang ***didownload*** (RETR) dari koneksi FTP dengan ***Microsoft FTP Service***!
@@ -138,6 +145,8 @@ Cari username dan password ketika ***login FTP*** pada localhost!
 - Password akan terlihat yaitu ***dhana123***
 
 ### Dokumentasi Pengerjaan Soal
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/9a.png)
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/9b.png)
 
 ## Soal 10
 Cari ***file .pdf*** di wireshark lalu download dan buka file tersebut!
@@ -152,6 +161,8 @@ clue: "25 50 44 46".
 - Buka file ***.pdf*** tersebut
 
 ### Dokumentasi Pengerjaan Soal
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/10a.png)
+![](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11/blob/main/Dokumentasi%20Hasil%20Penyelesaian/10b.png)
 
 ## Soal 11
 Filter sehingga wireshark hanya mengambil paket yang ***mengandung port 21***!
