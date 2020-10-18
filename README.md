@@ -9,6 +9,11 @@ Departemen  :   Teknologi Informasi
 ```
 
 # Daftar Isi
+Jawaban | Soal | Praktikum | Modul 1 | Jarkom 2020 | 
+------------ | ------------- | ------------- | ------------- | ------------- |
+[Soal 1](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11#soal-1) | [Soal 2](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11#soal-2) | [Soal 3](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11#soal-3) | [Soal 4](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11#soal-4) | [Soal 5](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11#soal-4) | 
+[Soal 6](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11#soal-6) | [Soal 7](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11#soal-7) | [Soal 8](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11#soal-8) | [Soal 9](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11#soal-9) | [Soal 10](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11#soal-10) | 
+[Soal 11](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11#soal-11) | [Soal 12](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11#soal-12) | [Soal 13](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11#soal-13) | [Soal 14](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11#soal-14) | [Soal 15](https://github.com/robbyirvine/Jarkom_Modul1_Praktikum_T11#soal-15) |
 
 ## File Pendukung Soal
 Terdapat tiga buah file ***.pcapng yang mendukung soal-soal display filter***, yaitu:
