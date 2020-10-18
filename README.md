@@ -131,7 +131,9 @@ Filter sehingga wireshark hanya mengambil paket yang ***mengandung port 21***!
 - Port 21 telah terdeteksi di display
 
 ### Dokumentasi Pengerjaan Soal
-
+![]()
+![]()
+![]()
 
 ## Soal 12
 Filter sehingga wireshark hanya mengambil paket yang ***berasal dari port 80***!
